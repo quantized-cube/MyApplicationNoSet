@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">DNB</string>
+    <string name="label_main">Dual N-Back</string>
+    <string name="label_game">DNB</string>
+    <string name="label_high_score">High Score</string>
+    <string name="my_settings">Settings</string>
+    <string name="start_button_text">Start</string>
+    <string name="plus">+</string>
+    <string name="pplus">+5</string>
+    <string name="minus">&#x2212;</string>
+    <string name="mminus">&#x2212;5</string>
+    <string name="level_setting">LEVEL = %d</string>
+    <string name="types_setting">TYPES = %d</string>
+    <string name="n_setting">N = %d</string>
+    <string name="lives_setting">LIVES = %d</string>
+    <string name="rec">%d</string>
+    <string name="recd">%d/%d</string>
+    <string name="total">%d/%d</string>
+    <string name="lives">life: %d/%d</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="exit">Exit</string>
+    <string name="button_color">Color</string>
+    <string name="button_shape">Shape</string>
+    <string name="button_letter">Letter</string>
+    <string name="button_position">Position</string>
+    <string name="correct_total">Correct/Total</string>
+    <string name="high_score">High Score</string>
+    <string name="level">Level</string>
+    <string name="hs_level">%d</string>
+    <string name="hs_level0">0</string>
+    <string name="hs_level1">1</string>
+    <string name="hs_level2">2</string>
+    <string name="hs_level3">3</string>
+    <string name="hs_level4">4</string>
+    <string name="hs_level5">5</string>
+    <string name="hs_level6">6</string>
+    <string name="hs_level7">7</string>
+    <string name="hs_level8">8</string>
+    <string name="hs_level9">9</string>
+    <string name="hs_level10">10</string>
+    <string name="hs_level11">11</string>
+    <string name="hs_level12">12</string>
+    <string name="hs_level13">13</string>
+    <string name="hs_level14">14</string>
+    <string name="hs_level15">15</string>
+    <string name="hs_level16">16</string>
+    <string name="hs_level17">17</string>
+    <string name="hs_level18">18</string>
+    <string name="hs_level19">19</string>
+    <string name="hs_level20">20</string>
+    <string name="hs_score">%d</string>
+    <string name="exit_score">Return</string>
+    <string name="remark">Lives = 10 Only</string>
+</resources>
